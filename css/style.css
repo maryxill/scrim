@@ -4,8 +4,14 @@ body {
     font-size: 16px;
 }
 
+.wrapper {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
 .center {
-    text-align: center;
+    text-align: center      ;
 }
 
 .nav-link {
@@ -30,6 +36,7 @@ body {
 .title h1 {
     color:#fff;
     font-size: 45px;
+    max-width: 720px;
 }
 
 .btn {
